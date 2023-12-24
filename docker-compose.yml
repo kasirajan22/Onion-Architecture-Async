@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  onion-architecture-async:
+    image: ${DOCKER_REGISTRY-}onionarchitectureasync
+    build:
+      context: .
+      dockerfile: OnionArchitecture/Dockerfile

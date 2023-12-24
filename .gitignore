@@ -1,0 +1,10 @@
+
+DomainLayer/bin/
+DomainLayer/obj/
+OnionArchitecture/bin/
+OnionArchitecture/obj/
+RepositoryLayer/bin/
+RepositoryLayer/obj/
+ServicesLayer/bin/
+ServicesLayer/obj/
+.vs/

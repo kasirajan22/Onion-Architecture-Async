@@ -9,6 +9,8 @@
     <PackageTags>.Net Core, Onion Architecture, Architecture, .Net 5, Services</PackageTags>
     <IsPackable>true</IsPackable>
     <PackageId>OnionArchitecture.API.Core</PackageId>
+    <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>916da25f-fbce-4172-813c-e6f87f3855bd</UserSecretsId>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
